@@ -15,6 +15,7 @@ module.exports = {
         "light-pink-bg": "#FFF2F2",
         "light-blue-bg": "#E2F3FF",
         "light-purple-bg": "#F1E8FF",
+        "pink-buttom-color": "#FFE7E7",
       },
       fontFamily: {
         body: ["Proxima Nova"],
