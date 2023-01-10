@@ -3,7 +3,7 @@ const menuItems = [
   { id: 1, label: "SOBRE A CAM" },
   { id: 2, label: "PRODUTOS" },
   { id: 3, label: "SERVIÇOS" },
-  { id: 4, label: "SOLUTIONS" },
+  { id: 4, label: "SOLUÇÕES" },
   { id: 5, label: "SUPORTE TÉCNICO" },
   { id: 6, label: "BLOG" },
   { id: 7, label: "CONTATO" },
